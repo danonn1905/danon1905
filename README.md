@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @danonn1905
-- 👀 I’m interested in .создание автомобильной приборной панели..
+- 👋 Hi, I’m 
+- 👀 I’m interested in .Создание автомобильной приборной панели.. на камне Адуино Мега 2560 Pro mini
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ..brat4791@yandex.ru.
 
 <!---
 danonn1905/danonn1905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
